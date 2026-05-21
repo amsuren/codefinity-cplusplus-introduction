@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main() 
+{
+    // Don't know what I'm doing but I'm trying haha
+    std::cout << "My first code, take that world!";
+}
